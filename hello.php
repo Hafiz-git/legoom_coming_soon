@@ -56,6 +56,7 @@
 		<!-- About Page -->
 		<section class="content hide" id="about">
 			<h1>About</h1>
+			<h5>Projek Inovasi JKM Pasir Mas dan Legoom</h5>
 		</section>
 
 		<!-- Contact Page -->
